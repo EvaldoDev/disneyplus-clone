@@ -1,9 +1,12 @@
-# Disney+ Clone
-Com este mini-projeto você poderá praticar os seus conhecimentos de HTML, CSS e Javascript recriando a página inicial da plataforma de stream Disney+ .
+# disneyplus-clone
+Este projeto é um clone do Disneyplus desenvolvido para praticar e aprimorar meus conhecimentos e habilidades em **HTML**, **CSS** e **JavaScript**.
+O objetivo é recriar a interface e as funcionalidades básicas de um app de streaming de vídeo, utilizando apenas tecnologias web.
 
-Para iniciar, faça o fork deste repositório para a sua conta e, da sua conta no Github, clone os arquivos para a sua máquina local.
+## Objetivo
+O principal objetivo deste repositório é criar uma versão simplificada do Disneyplus, sem a necessidade de backend ou APIs reais.
+O foco é simular a experiência de usuário com base nas habilidades adquiridas em HTML, CSS e JavaScript.
 
-Assista aos <a href="https://www.youtube.com/watch?v=UbhG8jxfEIE&list=PLrxph-IV8wY7IG5oGr8_hado37DkTwsPa">vídeos</a> do desenvolvimento desta página no canal da <a href="https://www.youtube.com/watch?v=UbhG8jxfEIE&list=PLrxph-IV8wY7IG5oGr8_hado37DkTwsPa">Hello Codes</a>
-
-<img src="https://cnbl-cdn.bamgrid.com/assets/c0a264881f6f269485d94228f8904ea1d4b8b02b8da0dfaaccc65ee723582e9a/original" />
-<br/><br/>
+## Tecnologias Utilizadas
+- **HTML**: Estrutura básica da página, como a criação de seções e elementos.
+- **CSS**: Estilo e layout da interface, com o uso de técnicas como Flexbox e Grid.
+- **JavaScript**: Funcionalidades interativas, como controle de músicas e navegação entre as seções.
